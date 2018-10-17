@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 When we initialise a repository, the current directory becomes our empty repository. we need to use the command git init to initialise the repository. git status shows the staging area which contains the commits. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is the intermediate stage between the working directory and the github repo. Here we can see what all changes have we proposed to be commited. * Typing this line just for testing purposes*
