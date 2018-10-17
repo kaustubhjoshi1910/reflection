@@ -7,3 +7,12 @@ Staging area is the intermediate stage between the working directory and the git
 
 How can you use the staging area to make sure you have one commit per logical change?
 By adding to the staging area one commit only after each logical change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When experiment a new idea with the ongoing project and when we are not sure about whether we would be successful or not then we create a branch.
+
+How do the diagrams help you visualize the branch structure?
+It works like a tree helping us to understand which is the parent branch or which is the parent commit.	
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________
