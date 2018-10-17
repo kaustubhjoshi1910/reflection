@@ -4,3 +4,6 @@ When we initialise a repository, the current directory becomes our empty reposit
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is the intermediate stage between the working directory and the github repo. Here we can see what all changes have we proposed to be commited.
  * Typing this line just for testing purposes*
+
+How can you use the staging area to make sure you have one commit per logical change?
+By adding to the staging area one commit only after each logical change
