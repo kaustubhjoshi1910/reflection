@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+	What happens when you initialize a repository? Why do you need to do it?
 When we initialise a repository, the current directory becomes our empty repository. we need to use the command git init to initialise the repository. git status shows the staging area which contains the commits. 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
@@ -8,6 +8,7 @@ Staging area is the intermediate stage between the working directory and the git
 How can you use the staging area to make sure you have one commit per logical change?
 By adding to the staging area one commit only after each logical change
 
+
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When experiment a new idea with the ongoing project and when we are not sure about whether we would be successful or not then we create a branch.
 
@@ -15,4 +16,3 @@ How do the diagrams help you visualize the branch structure?
 It works like a tree helping us to understand which is the parent branch or which is the parent commit.	
 
 
-______________________________________________________________________________________________________________________________________________________________________________________________________________
