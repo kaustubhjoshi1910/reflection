@@ -4,3 +4,6 @@ so different people add files from their local computers to the project reposito
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 So that we can see the different commits made at different times in the file in git log.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+By forking we can create a copy of repository of someone else on our own github account i.e. it is from github--->github. By using clones we can copy the repo from github to the local repository or from the local repo to the local repo. Branch is totally different. It is used when we wish to experiment with the master branch. If the change is not successful we can always return back to the checkpoint from where we had started.
